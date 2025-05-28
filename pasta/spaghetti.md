@@ -7,9 +7,10 @@
 - seasoning
   
 ## Instructions:
-- boil the water
-- turn down temperature and add spaghetti
-- heat the marinara sauce
-- cook spaghetti for 10 mins
-- colanderize
-- serve with sauce and seasoning on the spaghetti
+1. Boil the water
+2. Turn down temperature and add spaghetti
+3. Heat the marinara sauce in a saucepan
+4. Cook spaghetti for 10 mins or until al dente
+5. Remove water with a colander
+6. Serve with sauce and seasoning on the spaghetti.
+7. Eattttttttt
