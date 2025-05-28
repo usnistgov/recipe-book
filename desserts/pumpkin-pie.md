@@ -5,12 +5,13 @@
 
 - Remove seeds
 - Bake pumpkin/squash
-- Take out the inside of the pumpkin
-- Use 2 cups of pumpkin pulp per pie
+- Take out the inside of the squash
+- Use 2 cups of squash pulp per pie
 
 
 ## Ingredients
 
+- 1 butternut squash
 - Pie shell
 - Nutmeg
 - Can of evaporated milk
